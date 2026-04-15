@@ -35,7 +35,7 @@ This dashboard provides an overview of the HR job market in Finland, focusing on
 ## Files
 - `dashboard.pbix` — Power BI report file
 - `images/` — dashboard screenshots
-- `export/` — optional PDF export
+- `analysis.ipynb/` — skills analysis in python
 
 ## Purpose
 This project was created to explore hiring trends in Finnish HR roles and present them in a clear, visual dashboard format.
